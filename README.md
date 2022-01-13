@@ -5,4 +5,3 @@ This repository contains projects done during the following course:
 > React - The Complete Guide (incl Hooks, React Router, Redux)    
 > by Maximilian Schwarzmüller  
 > Udemy.com  
-> 
