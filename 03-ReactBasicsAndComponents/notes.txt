@@ -1,0 +1,25 @@
+Component-Driven User Interfaces
+Interactive and Scalable UIs
+
+Module Content
+React Core Syntax and JSX
+Working with Components
+Working with Data
+
+Module 03 and 04 - Expense Tracker Project
+
+What is a "Component"?
+Reusable building blocks
+Can be as big or granular as you want
+
+Why "Components"?
+Reusability 
+- DRY
+Separation of Concerns
+- Don't do too many things in one and the same place
+- Code base is more managable
+(Overall, split big chunks of code into multiple smaller functions)
+
+React uses a "Declarative Approach" when creating components
+- Define desired target states
+- React does it's thing under the hood
