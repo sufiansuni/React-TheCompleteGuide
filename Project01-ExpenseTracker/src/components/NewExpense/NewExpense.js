@@ -1,6 +1,5 @@
 import "./NewExpense.css";
 import ExpenseForm from "./ExpenseForm";
-// import { useState } from 'react';
 
 const NewExpense = (props) => {
 	const saveExpenseDataHandler = (enteredExpenseData) => {
