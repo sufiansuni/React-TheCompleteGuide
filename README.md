@@ -7,4 +7,5 @@ This repository contains projects done during the following course:
 > Udemy.com  
 
 ## Projects
-01 - Expense Tracker
+01 - Expense Tracker - Basics, Components, States, Lists
+02 - Goal Tracker - Styling
