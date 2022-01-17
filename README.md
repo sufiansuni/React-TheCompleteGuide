@@ -11,3 +11,4 @@ This repository contains projects done during the following course:
 |--|--|--|
 | 01 | Expense Tracker | Basics, Components, States, Lists |
 | 02 | Goal Tracker | Styling |
+| 03 | Debugging | Debugging Exercise |
