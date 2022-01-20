@@ -11,11 +11,15 @@ function App() {
 		});
 	};
 
+	// Wrappers/Fragments can be written in 2 ways:
+	// <React.Fragment></React.Fragment>
+	// <></>
+
 	return (
-		<div>
+		<>
 			<AddUser onAddUser={addUserHandler} />
 			<UsersList users={usersList} />
-		</div>
+		</>
 	);
 }
 
